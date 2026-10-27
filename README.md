@@ -1,8 +1,8 @@
-# .NET 中国 · Community
+# .NET 中文开源社区 · Community
 
 [中文](#一起参与) · [English](#participate)
 
-面向中国 .NET 开发者的社区交流入口：分享实践、讨论想法、寻找值得一起解决的问题。
+面向中文 .NET 开发者的社区交流入口：分享实践、讨论想法、寻找值得一起解决的问题。
 
 **[进入 Discussions](https://github.com/donet-org-cn/community/discussions)** · [官网](https://dotnet.org.cn) · [组织主页](https://github.com/donet-org-cn) · [贡献指南](https://github.com/donet-org-cn/.github/blob/main/CONTRIBUTING.md)
 
@@ -21,4 +21,4 @@ Use [Discussions](https://github.com/donet-org-cn/community/discussions) for que
 
 Organization membership is not required. Be respectful, focus on technical facts, and avoid sharing credentials or personal data. See the [contribution guide](https://github.com/donet-org-cn/.github/blob/main/CONTRIBUTING.md).
 
-.NET China is an independent developer community and is not affiliated with Microsoft. Repository ownership and licensing follow each individual project.
+.NET Chinese Open Source Community is an independent developer community and is not affiliated with Microsoft. Repository ownership and licensing follow each individual project.
